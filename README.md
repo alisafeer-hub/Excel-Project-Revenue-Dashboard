@@ -2,7 +2,7 @@
 
 > An interactive Excel dashboard for analyzing global sales revenue across regions, product categories, markets, and time periods — with dynamic slicers for fully customizable views.
 
-📂 Dashboard file: `Excel-Revenue-Dashboard.xlsx`
+📂 Dashboard file: [Excel Revenue Dashboard](/Excel-Revenue-Dashboard.xlsx)
 
 ---
 
